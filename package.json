@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "writing first backend",
+  "keywords": [
+    "javascript",
+    "backend",
+    "hani"
+  ],
+  "license": "ISC",
+  "author": "Haroon Rasheed",
+  "type": "modulejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
