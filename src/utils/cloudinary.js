@@ -29,3 +29,4 @@ cloudinary.config({
     }
 
 
+export {uploadOnCloudinary}
